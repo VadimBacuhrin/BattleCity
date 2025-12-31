@@ -1,0 +1,14 @@
+D:/Рабочий стол/BattleCity/BattleCity/build3/CMakeFiles/BattleCity.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/CMakeFiles/INSTALL.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/CMakeFiles/ALL_BUILD.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/CMakeFiles/ZERO_CHECK.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/CMakeFiles/uninstall.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/CMakeFiles/INSTALL.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/CMakeFiles/ALL_BUILD.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/src/CMakeFiles/glfw.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/src/CMakeFiles/update_mappings.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/src/CMakeFiles/INSTALL.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glfw/docs/CMakeFiles/INSTALL.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glad/CMakeFiles/glad.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glad/CMakeFiles/INSTALL.dir
+D:/Рабочий стол/BattleCity/BattleCity/build3/external/glad/CMakeFiles/ALL_BUILD.dir

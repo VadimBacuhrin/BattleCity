@@ -1,0 +1,10 @@
+^D:\РАБОЧИЙ СТОЛ\BATTLECITY\BATTLECITY\BUILD3\CMAKEFILES\DD470FB9688A06B0B617E1AA582D9050\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SD:/Рабочий стол/BattleCity/BattleCity" "-BD:/Рабочий стол/BattleCity/BattleCity/build3" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "D:/Рабочий стол/BattleCity/BattleCity/build3/BattleCity.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
